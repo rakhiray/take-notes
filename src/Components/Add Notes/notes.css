@@ -1,0 +1,39 @@
+#btn-icon{
+    color: #bdbf48;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 2px 2px 3px #bdbf48;
+}
+
+#btn-icon:hover{
+    background-color: rgb(60, 243, 176);
+    border-radius: 50%;
+}
+
+.btn{
+    float: right;
+    height: 20px;
+}
+
+.notes{
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 2px 2px 3px #9a9999;
+    border-radius: 5px;
+}
+
+#input-title,#txtarea {
+   width: 100%;
+   padding: 5px;
+   margin-bottom: 10px;
+}
+
+#input-title{
+   border: none;
+}
+
+#txtarea{
+    border: none;
+}

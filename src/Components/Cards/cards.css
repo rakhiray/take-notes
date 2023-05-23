@@ -1,0 +1,25 @@
+.cards{
+    border: 1px solid #5087ad;
+    padding: 10px;
+    width: 200px;
+    margin: 20px ;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #6bb5e6;
+}
+
+#del-icon{
+    color: #d87cd8;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 2px 2px 3px #d87cd8;
+}
+
+#del-icon:hover{
+    background-color: rgb(240, 59, 59);
+    border-radius: 50%;
+}
+
+.btn{
+    float: right;
+    height: 20px;
+}

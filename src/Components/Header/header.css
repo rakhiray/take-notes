@@ -9,12 +9,13 @@
     display: flex;
 }
 
-img{
+#logo-img{
     margin: 10px 20px;
+    height: 40px;
+    width: 40px;
 }
 
-h2{
+#title{
     color: #fff;
-    margin: 10px 0;
-    
+    margin: 10px 0;    
 }
