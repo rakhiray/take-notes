@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #c9c01f;
+    display: flex;
+}
+
+img{
+    margin: 10px 20px;
+}
+
+h2{
+    color: #fff;
+    margin: 10px 0;
+    
+}
