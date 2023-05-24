@@ -1,10 +1,12 @@
 .cards{
     border: 1px solid #5087ad;
+
     padding: 10px;
     width: 200px;
     margin: 20px ;
     border-radius: 5px;
     box-shadow: 2px 2px 3px #6bb5e6;
+    float: left;
 }
 
 #del-icon{
@@ -22,4 +24,9 @@
 .btn{
     float: right;
     height: 20px;
+}   
+
+#card-title, #card-content{
+    color: rgb(34, 31, 56);
+    text-transform: capitalize;
 }
